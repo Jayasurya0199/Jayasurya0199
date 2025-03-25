@@ -37,7 +37,7 @@
 
 ### 💼 **Professional Summary**
 
-#### 🏢 **Capgemini, Bangalore — DevOps Engineer (Mar 2023 - Present)**
+#### 🏢 **Capgemini, Bangalore — DevOps Engineer (Oct 2020 - Present)**
 
 ✔️ **Optimized CI/CD Pipelines** → Reduced build & deployment times by **20%** using Maven.  
 ✔️ **Containerization Expertise** → Assisted **3 dev teams** in containerizing microservices.  
