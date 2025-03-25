@@ -60,7 +60,7 @@
 ---
 
 ### 🔗 **Let's Connect!**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/jaya-surya-90a0771bb/))
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Jayasurya0199)
 
 🚀 **Passionate about DevOps & Automation! Let's build something amazing together!** 🚀
